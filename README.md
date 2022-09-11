@@ -7,4 +7,4 @@
 - 💬 Ask me about anything you think I know.
 - 📫 How to reach me: Twitter - <a href="https://twitter.com/Mkzay_">@Mkzay_</a> , Email - Ayomikunwahab18@gmail.com.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love comics, manga, anime, but don't actually watch/read them.
+- ⚡ Fun fact: I love comics, manga, anime, but I don't actually watch/read them.
