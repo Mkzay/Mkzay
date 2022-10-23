@@ -1,9 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
-
 # Hello there! I'm Ayomikun👋
 
 I've always been lost on what to put on a bio... Aspiring Top Tech G and Frontend Developer | Driven and passionate | Crazy for solutions | Oh! and I write too.
