@@ -11,7 +11,7 @@ I've always been lost on what to put on a bio... Aspiring Top Tech G and Fronten
 
 🧠 I'm currently learning Javascript.
 
-👯‍♀️ I'm looking to collaborate on on Twitter and the Hub.
+👯‍♀️ I'm looking to collaborate on on Twitter and Github.
 
 🤔 I'm looking for help with with everything regarding frontend development for now.
 
