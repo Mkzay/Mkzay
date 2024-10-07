@@ -10,7 +10,7 @@ I've always been lost on what to put on a bio... Aspiring Top Tech G and Fronten
 ## 
 👩‍💻 I'm currently working on building up my Frontend development skills and building my portfolio.
 
-🧠 I'm currently learning React.
+🧠 I'm currently learning NextJS.
 
 👯‍♀️ I'm looking to collaborate on on Twitter and Github.
 
@@ -24,7 +24,7 @@ I've always been lost on what to put on a bio... Aspiring Top Tech G and Fronten
 
 ⚡️ Fun fact: I love comics, manga, anime, but I don't actually watch/read them.
 ## 🛠 Skills
-HTML, CSS, TailWind CSS and React.
+HTML, CSS, TailWind CSS, Javascript, React and NextJS.
 
 
 ## 
